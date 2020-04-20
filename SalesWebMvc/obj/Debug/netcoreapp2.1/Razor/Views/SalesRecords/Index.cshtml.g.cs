@@ -73,7 +73,7 @@ Write(ViewData["Title"]);
             WriteLiteral("</h2>\r\n<div class=\"row\">\r\n    <div class=\"col-md-6\">\r\n        ");
             EndContext();
             BeginContext(135, 1036, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bd20b6c5f9e34b969c65bf49fdb90425", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "81ed61e906214de1b5345d1f48d7c6fc", async() => {
                 BeginContext(191, 973, true);
                 WriteLiteral(@"
             <fieldset>
@@ -119,7 +119,7 @@ Write(ViewData["Title"]);
             WriteLiteral("\r\n    </div>\r\n</div>\r\n\r\n<div class=\"row\">\r\n    <div class=\"col-md-6\">\r\n        ");
             EndContext();
             BeginContext(1250, 1040, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b281ae533631482da28bcfd88f09341a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b186a8b37a7d44198f10fb5760c1f09d", async() => {
                 BeginContext(1308, 975, true);
                 WriteLiteral(@"
             <fieldset>
